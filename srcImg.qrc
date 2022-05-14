@@ -1,0 +1,7 @@
+<RCC>
+  <qresource prefix="src">
+    <file>Img/gobang.png</file>
+    <file>Img/black.png</file>
+    <file>Img/white.png</file>
+  </qresource>
+</RCC>
