@@ -1,5 +1,6 @@
 # Network-programming-Gobang 
 计网实验
+``` txt
 :.
 │  board.py		# 棋盘类
 │  Gobang.py	# Gobang.ui转
@@ -24,3 +25,4 @@
         srcImg_rc.cpython-37.pyc
         threadClient.cpython-37.pyc
         threadServer.cpython-37.pyc
+```
